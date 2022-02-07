@@ -1790,6 +1790,8 @@ ul.trend-tags {
     padding: 45px 15px;
 
     max-width: 550px;
+    
+    justify-content: center;
   }
 
   .content {
@@ -2116,7 +2118,7 @@ ul.trend-tags {
   .list {
     display: block;
     margin-left: 0;
-    width: 391px;
+    max-width: 391px;
   }
 
   .tags {
