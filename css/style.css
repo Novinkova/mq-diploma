@@ -1841,14 +1841,8 @@ ul.trend-tags {
     justify-content: center;
     align-items: center;
   }
-  
-  /* .new-posts {
-    display: flex;
-    justify-content: center;
-  } */
     
   .new-post {
-    display: block;
     margin: 0 auto 22px;
     max-width: 550px;
   }
