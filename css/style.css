@@ -1863,6 +1863,8 @@ ul.trend-tags {
     margin: 0 auto;
     
     max-width: 271px;
+    
+    margin-bottom: 45px;
   }
 
   .search-box {
