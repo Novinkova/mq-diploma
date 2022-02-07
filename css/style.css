@@ -2182,6 +2182,10 @@ ul.trend-tags {
   .new-post {
     margin-bottom: 22px;
   }
+  
+  .new-posts-img {
+    margin-right: 17px;
+  }
 
   .new-post-link {
     line-height: 1.1;
