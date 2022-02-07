@@ -1843,10 +1843,15 @@ ul.trend-tags {
 
   .new-post {
     margin-bottom: 22px;
+    max-width: 550px;
   }
 
   .form {
     width: 100%;
+  }
+  
+  .search-form {
+    justify-content: center;
   }
 
   .search-box {
