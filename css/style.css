@@ -1842,10 +1842,10 @@ ul.trend-tags {
     align-items: center;
   }
   
-  .new-posts {
+  /* .new-posts {
     display: flex;
     justify-content: center;
-  }
+  } */
     
   .new-post {
     display: block;
