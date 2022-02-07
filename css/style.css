@@ -1852,7 +1852,8 @@ ul.trend-tags {
     width: 100%;
   }
   
-  .search-form {
+  div.form {
+    display: flex;
     justify-content: center;
     margin: 0 auto;
     
