@@ -1839,10 +1839,12 @@ ul.trend-tags {
     margin: 0 auto;
     
     justify-content: center;
+    
+    max-width: 550px;
   }
 
   .new-post {
-    margin-bottom: 22px;
+    margin: 0 auto 22px;
     max-width: 550px;
   }
 
@@ -1852,6 +1854,9 @@ ul.trend-tags {
   
   .search-form {
     justify-content: center;
+    margin: 0 auto;
+    
+    max-width: 330px;
   }
 
   .search-box {
