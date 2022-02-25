@@ -1346,10 +1346,12 @@ ul.trend-tags {
 
   .item-picture {
     margin-bottom: 15px;
+    
+    flex-grow: 1;
   }
 
   .activity-img {
-    max-width: 391px;
+    /* max-width: 391px; */
     width: 100%;
   } 
 
